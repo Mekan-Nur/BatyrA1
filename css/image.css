@@ -1,0 +1,8 @@
+.bg-image {
+    background-image: url("../img/slide-1.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
